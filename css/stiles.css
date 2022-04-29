@@ -1,5 +1,14 @@
 /* CSS Document */
+/* Main */
+
 .ul-list {
 	color: brown;
-	font-size: 30 ;
+	font-size: 6em ;
 }
+
+.ol-list {
+	font-size: 3em;
+	color: rgb(92, 29, 238);
+}
+
+
